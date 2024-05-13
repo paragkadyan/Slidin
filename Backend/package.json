@@ -1,0 +1,19 @@
+{
+  "name": "slidin",
+  "version": "1.0.0",
+  "description": "backend api for Slidin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paragkadyan/Slidin.git"
+  },
+  "author": "Parag, Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paragkadyan/Slidin/issues"
+  },
+  "homepage": "https://github.com/paragkadyan/Slidin#readme"
+}
